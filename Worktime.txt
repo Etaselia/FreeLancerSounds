@@ -1,0 +1,19 @@
+0h45min Ace Research / Testing
+1h50min Coding
+2h50min Debugging / Coding
+2h30min Debugging / Testing
+1h15min SoundImplementation / Testing / Debugging
+
+Total:
+9h 10min (Part 1 Paid)
+
+Price:
+15€ p hour --> 9*15 = 135€ (Part 1 Paid)
+
+Checklist:
+Part 1:
+  -underfire
+  -shields_down
+  -wounded
+  -out_of_ammo
+  -low_ammo
