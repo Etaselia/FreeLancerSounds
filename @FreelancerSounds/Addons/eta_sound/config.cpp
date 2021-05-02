@@ -20,10 +20,10 @@ class CfgFunctions
 {
 
 	class ADDON{
-		class functions
+		class etasound_functions
 		{
 			file = "\eta_sound\etasound_functions";
-			class init{postInit = 1;};
+			class etasound_init{postInit = 1;};
 		};
 	};
 };
